@@ -1,0 +1,33 @@
+h1 {
+    padding-top: 20pt;
+}
+
+body {
+    font-family: papyrus;
+    background:black;
+    color: white;
+    text-align: center;
+    margin:0 auto;
+    max-width:70em;}
+
+      p {color:#a1ccad;}
+  h1 {color:#baffcc;}
+  h2 {color:white;}
+  h3 {color:white;}
+  h4 {color:white;}
+  label {color:white}
+
+  div{
+    color: white;
+    text-align: left;
+    margin:0 auto;
+  }
+
+  li{
+    list-style-type: none;
+  }
+
+  .sidebar {
+    width:20%;
+    float:left;
+  }
