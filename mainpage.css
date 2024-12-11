@@ -2,32 +2,32 @@ h1 {
     padding-top: 20pt;
 }
 
-body {
+.Content {
     font-family: papyrus;
+    padding-left:14%;
+    width:86%;
     background:black;
     color: white;
     text-align: center;
-    margin:0 auto;
-    max-width:70em;}
+    }
 
-      p {color:#a1ccad;}
+  p {color:#a1ccad;}
   h1 {color:#baffcc;}
   h2 {color:white;}
   h3 {color:white;}
   h4 {color:white;}
   label {color:white}
 
-  div{
-    color: white;
+  .sidebar {
+    width:14%;
+    background-color:black;
+    color:white;
     text-align: left;
-    margin:0 auto;
+    height:100%;
+    position:absolute;
+    position:fixed;
   }
 
   li{
     list-style-type: none;
-  }
-
-  .sidebar {
-    width:20%;
-    float:left;
   }
