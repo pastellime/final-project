@@ -17,6 +17,8 @@ h1 {
   h3 {color:white;}
   h4 {color:white;}
   label {color:white}
+  
+  body {background-color: black;}
 
   .sidebar {
     width:14%;
